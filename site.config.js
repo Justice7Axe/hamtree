@@ -51,7 +51,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "Justice7Axe/hamtree",
       "issue-term": "og:title",
