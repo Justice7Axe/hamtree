@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "Justice7Axe/hamtree",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
